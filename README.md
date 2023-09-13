@@ -1,6 +1,6 @@
 # SAYNA-UXUI-REVOLUTION
 Ce projet consiste sur la réalisation d'audit d'un site web
-Voici le lien du site que j'ai choisi d'améliorer:
+Voici le lien du site que j'ai choisi d'améliorer:C'est le site d'un faculté public 
 //PARTIE PHASE DE DECOUVERTE
 http://fianarasiansa.mg/pages/index
 
